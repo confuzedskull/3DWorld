@@ -161,3 +161,11 @@ pip-log.txt
 
 # Mac crap
 .DS_Store
+
+#Codeblocks
+*.cbp
+*.layout
+*.depend
+
+#Other
+archive/
